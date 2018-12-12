@@ -1,0 +1,6 @@
+
+• Enhanced the chatbot for Software and Hardware queries and achieved more
+accurate responses thus improving the user experience, by using Character by
+Character Sequence model and used Word2vec to reduce dimensionality.
+
+• Languages and Technologies Used - Python with Keras and Google colab.
